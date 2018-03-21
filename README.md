@@ -1,4 +1,4 @@
-# cloud-sql-proxy-client
+# cloud-sql-proxy-client [![Build Status](https://travis-ci.org/spiritloose/cloud-sql-proxy-client.svg)](https://travis-ci.org/spiritloose/cloud-sql-proxy-client)
 
 MySQL CLI launcher with Cloud SQL Proxy.
 
